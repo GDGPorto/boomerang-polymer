@@ -1,6 +1,8 @@
 boomerang-polymer
 ==================
 
+[![Join the chat at https://gitter.im/gdg-x/boomerang-polymer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-x/boomerang-polymer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Based on the GDG Twin Cities site (http://dev.gdgtc.com/gdgtc-site-polymer), this page is a polymer implementation of 
 boomerang, the templates for GDG chapters.
 
