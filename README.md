@@ -1,6 +1,13 @@
 boomerang-polymer
 ==================
 
+## WARNING
+This branch is based on an old version of Polymer and has not been
+updated to support recent versions (such as 0.9.0 as of 2015-05-27).
+It is currently unlikely to work out of the box.
+
+## About
+
 Based on the GDG Twin Cities site (http://dev.gdgtc.com/gdgtc-site-polymer), this page is a polymer implementation of 
 boomerang, the templates for GDG chapters.
 
