@@ -1,6 +1,8 @@
 boomerang-polymer
 ==================
 
+[![Join the chat at https://gitter.im/gdg-x/boomerang-polymer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-x/boomerang-polymer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## WARNING
 This branch is based on an old version of Polymer and has not been
 updated to support recent versions (such as 0.9.0 as of 2015-05-27).
