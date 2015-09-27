@@ -61,7 +61,8 @@
     },
     sheetLoaded: function() {
       // Make a copy of the loaded data
-      this.pastevents = this.$.ajax.response; // DO NOT CHANGE SHEET NAME  this will then find nothing
+      this.pastevents =  "{   Sheet1: [     {       Date: "201-09-01T13:00:00.000Z",        Title: "First Meetup",       LocationName: "Porto",       Sponsor: "-"     }    }    ]"
+}  ";// this.$.ajax.response; // DO NOT CHANGE SHEET NAME  this will then find nothing
       for(var i = 0; i < this.pastevents.events.length; i++){
         this.pastevents.events[i].topics = [];
         var uid = this.pastevents.events[i].uid;
