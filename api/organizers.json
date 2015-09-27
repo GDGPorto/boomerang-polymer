@@ -2,7 +2,7 @@
   {
     "uid": 1,
     "text" : "Events Speakers",
-    "username" : "André Silva",
+    "username" : " André Silva",
     "gplusid":"108149312466048440019",
     "avatar" : "../images/andre_silva.jpg",
     "favorite": false
@@ -10,7 +10,7 @@
   {
     "uid": 2,
     "text" : "Logistics",
-    "username" : "João Raimundo",
+    "username" : " João Raimundo",
     "gplusid":"+JoãoRaimundo",
     "avatar" : "https://lh3.googleusercontent.com/-8VWdTy7CeL0/AAAAAAAAAAI/AAAAAAAAEkY/qVynY-6_DhU/s120-c-a/photo.jpg",
     "favorite": false
@@ -18,7 +18,7 @@
   {
     "uid": 3,
     "text" : "Partners and Sponsors",
-    "username" : "Pedro Vicente",
+    "username" : " Pedro Vicente",
     "gplusid":"+PedroVicenteNeTeInStEiN",
     "avatar" : "https://lh3.googleusercontent.com/-jVejFj1jAZg/AAAAAAAAAAI/AAAAAAACGYQ/QvrZWGSVO44/s120-c-a/photo.jpg",
     "favorite": false
