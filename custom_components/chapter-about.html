@@ -66,8 +66,8 @@
 			chapterId : parent.config.chapterId,
 			gplusLoaded: function(){
 			  this.chapter = this.$.ajax.response;
-			  this.name = this.chapter.displayName;
-			  this.tagline = this.chapter.tagline;
+			  this.name = "GDG Porto";
+			  this.tagline = "Porto's Community of Developers";
 			  this.about = this.chapter.aboutMe;
 			  this.injectBoundHTML(this.about, this.$.aboutChapter)
 			}
