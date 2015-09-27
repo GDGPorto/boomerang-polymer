@@ -1,7 +1,7 @@
 [
   {
     "uid": 1,
-    "text" : "Android Developer & Team Leader",
+    "text" : "Logistics",
     "username" : "João Raimundo",
     "gplusid":"+JoãoRaimundo",
     "avatar" : "https://lh3.googleusercontent.com/-8VWdTy7CeL0/AAAAAAAAAAI/AAAAAAAAEkY/qVynY-6_DhU/s120-c-a/photo.jpg",
@@ -9,10 +9,18 @@
   },
   {
     "uid": 2,
-    "text" : "Android Developer & Technical Leader",
+    "text" : "Partners & Sponsors",
     "username" : "Pedro Vicente",
     "gplusid":"+PedroVicenteNeTeInStEiN",
     "avatar" : "https://lh3.googleusercontent.com/-jVejFj1jAZg/AAAAAAAAAAI/AAAAAAACGYQ/QvrZWGSVO44/s120-c-a/photo.jpg",
+    "favorite": false
+  }
+  {
+    "uid": 3,
+    "text" : "Events Speakers",
+    "username" : "André Silva",
+    "gplusid":"",
+    "avatar" : "https://lh6.googleusercontent.com/-LTD1vKl8Y74/VXG8ufFzWVI/AAAAAAAAh5Y/biBc0Gn66ew/s500-no/f2_500.jpg",
     "favorite": false
   }
 ]
