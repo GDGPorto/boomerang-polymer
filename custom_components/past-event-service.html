@@ -44,7 +44,7 @@
     </style>
     <core-ajax id="ajax"
       auto
-      url="https://script.google.com/macros/s/AKfycbzCqr6a8j2dmpW33DZrKSgoAKRQ7TEK9lWx0Ypampkk_DdXL1lw/exec?id=1SpY7hSSi537O-z4-w5EMsDmHrxMTPStFIc5pamRGfLU"
+      url="#"
       on-core-response="{{sheetLoaded}}"
       handleAs="json">
     </core-ajax>
@@ -61,8 +61,7 @@
     },
     sheetLoaded: function() {
       // Make a copy of the loaded data
-      this.pastevents =  "{   Sheet1: [     {       Date: "201-09-01T13:00:00.000Z",        Title: "First Meetup",       LocationName: "Porto",       Sponsor: "-"     }    }    ]"
-}  ";// this.$.ajax.response; // DO NOT CHANGE SHEET NAME  this will then find nothing
+      this.pastevents =  "{   Sheet1: [     {       Date: "201-09-01T13:00:00.000Z",        Title: "First Meetup",       LocationName: "Porto",       Sponsor: "-"     }    }    ]";// this.$.ajax.response; // DO NOT CHANGE SHEET NAME  this will then find nothing
       for(var i = 0; i < this.pastevents.events.length; i++){
         this.pastevents.events[i].topics = [];
         var uid = this.pastevents.events[i].uid;
