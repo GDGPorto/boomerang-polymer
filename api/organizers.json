@@ -4,7 +4,7 @@
     "text" : "Events Speakers",
     "username" : "André Silva",
     "gplusid":"+AndreSilva",
-    "avatar" : "/images/andre_silva.jpg",
+    "avatar" : "../images/andre_silva.jpg",
     "favorite": false
   },
   {
